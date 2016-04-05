@@ -1,0 +1,11 @@
+a {
+  display: inline-block;
+  min-height: 1em;
+  line-height: 1.4em;
+  padding: 1em;
+  margin: .1em;
+  border: thin solid #666;
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
